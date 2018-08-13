@@ -1,6 +1,6 @@
 {
   "name": "gran",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Local raid finder and notifier for GBF",
   "license": "MIT",
   "repository": "gakada/gran",
@@ -8,6 +8,14 @@
   "bin": "index.js",
   "files": [
     "assets"
+  ],
+  "keywords": [
+    "gbf",
+    "granblue",
+    "raid",
+    "notifier",
+    "tweet",
+    "twitter"
   ],
   "dependencies": {
     "copy-paste": "^1.3.0",

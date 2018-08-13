@@ -12,7 +12,7 @@ Local raid finder and notifier for GBF.
 npm i -g gran
 ```
 
-Configure Twitter [access keys](https://apps.twitter.com/) and raids in `gran.yaml` in current or home directory, see `gran.example.yaml` for config format.
+Configure Twitter [access keys](https://apps.twitter.com/) and raids in `gran.yaml` in current or home directory, see [here](gran.example.yaml) for config format.
 
 Run:
 
