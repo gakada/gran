@@ -1,0 +1,17 @@
+# alert: true
+# console: true
+# copy: true
+# format: (.+?)\s*:(?:参戦ID|Battle ID)\n.+?\n(.+?)\n
+# player: mpg123
+raids:
+  GO:
+    search: Lv100 ジ・オーダー・グランデ, Lvl 100 Grand Order
+    # alert: true
+    # console: true
+    # copy: true
+    # disable: false
+twitter:
+  consumer_key: ...
+  consumer_secret: ...
+  access_token: ...
+  access_token_secret: ...
